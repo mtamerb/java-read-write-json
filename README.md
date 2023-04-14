@@ -9,7 +9,7 @@ Json dosyası oluşturur. Yazdırma ve Okuma işlemleri gerçekleştirir .
 
 ## Bilgisayarınızda Çalıştırın
 
-Projeyi klonlayın ve kullanın 🆒
+Projeyi klonlayın ve kullanın 🚀
 
 ```bash
   git clone https://github.com/mtamerb/java-read-write-json.git
